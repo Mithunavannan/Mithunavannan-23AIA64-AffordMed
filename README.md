@@ -20,7 +20,7 @@ The project implements:
 
 ## Project Structure
 
-```text
+
 CAMPUS-EVALUATION-FS
 │
 ├── logging-middleware
