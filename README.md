@@ -19,7 +19,7 @@ The project implements:
 ---
 
 ## Project Structure
-
+```text
 
 CAMPUS-EVALUATION-FS
 │
@@ -41,7 +41,7 @@ CAMPUS-EVALUATION-FS
 │   └── package.json
 │
 └── notification-system-design.md
-
+```
 
 ---
 
