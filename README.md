@@ -27,9 +27,15 @@ CAMPUS-EVALUATION-FS
 │   ├── index.js
 │   └── README.md
 │
+├── Output inages
 ├── notification-app-be
 │   └── README.md
-│
+|     ── routes
+|        ├──notification.js
+|.   └── services
+|.       ├──notificationServices.js
+|.       └── priorityServices.js
+|
 ├── notification-app-fe
 │   ├── src
 │   │   ├── api
